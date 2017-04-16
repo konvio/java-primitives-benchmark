@@ -1,11 +1,11 @@
-#Java Primitives Benchmark
+# Java Primitives Benchmark
 
-##Overview
+## Overview
 Estimated speed of arithmetic operations (+, -, *, /) with Java primitives
 (byte, short, int, long, float, double) measured via 
 [Caliper](https://github.com/google/caliper).
 
-##Results
+## Results
                benchmark     ns linear runtime
             ByteAddition  0.414 =
            ShortAddition  0.807 =
@@ -34,4 +34,4 @@ Estimated speed of arithmetic operations (+, -, *, /) with Java primitives
             LongDivision 15.452 ==============================
            FloatDivision  4.361 ========
           DoubleDivision  5.140 =========
-######Copyright © 2016 by Vitaliy Kononenko, K-24
+###### © 2016, Vitaliy Kononenko, K-24
